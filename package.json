@@ -1,0 +1,35 @@
+{
+    "name": "twee-cookies-extension",
+    "preferGlobal": false,
+    "version": "0.0.1",
+    "author": "Dmitri Mesin <dmitri.mesin@gmail.com>",
+    "homepage": "https://github.com/mesin/twee-cookies-extension",
+    "description": "Cookies Extension for Twee.io Framework - MVC Framework for Node.js based on Express.js",
+    "license": "MIT",
+    "dependencies": {
+        "cookie-parser": "*"
+    },
+    "devDependencies": {},
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/mesin/twee-cookies-extension.git"
+    },
+    "keywords": [
+        "cookies",
+        "twee.io",
+        "framework",
+        "extensions",
+        "modules",
+        "route",
+        "web",
+        "middleware",
+        "mvc",
+        "routes",
+        "rest",
+        "restful",
+        "api"
+    ],
+    "bugs": {
+        "url": "https://github.com/mesin/twee-cookies-extension/issues"
+    }
+}
