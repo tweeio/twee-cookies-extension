@@ -14,3 +14,24 @@ To install it use this command:
 ```
 npm install twee-cookies-extension --save
 ```
+
+
+Editing `package.json` of your application:
+
+```
+"dependencies": {
+    "twee-cookies-extension": "*"
+}
+```
+
+Turning extension `ON` in `application/configs/twee.js`:
+
+```
+module.exports = {
+    "extensions": {
+        "Cookies": {
+            "module": "twee-cookies-extension"
+        }
+    }
+};
+```
